@@ -145,4 +145,4 @@ DreamHouse has many more features not discussed here. For example, DreamHouse al
 - Integrate with Alexa, Slack, and Facebook Messenger
 - Integrate with IoT devices like smart lights, smart thermostats, and smart locks
 
-Head over to [dreamhouseapp.io](http://dreamhouseapp.io) to learn more.
+Head over to [dreamhouseapp.io](http://dreamhouseapp.io) to learn more. updated
